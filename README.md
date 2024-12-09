@@ -30,3 +30,7 @@ My modification of the mainline PL011 (UART) driver for Raspberry Pi. The modifi
 **Repo's curiosities:**
 
 - Disabling unwanted, built-in drivers
+
+## Handcrafted code
+
+Not a single line in my repo (and outside of the repo) was written by AI. I prefer to do my own research, and build the code with full consciousness of what I'm doing, even if it takes longer. This is how we learn, how we develop creativity, and explore new ways of solving problems.
